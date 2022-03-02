@@ -1,0 +1,475 @@
+id,label,
+1,A. (Allen) Douglas Millard,1
+2,A. B. Goldenveizer,2
+3,A. L. Rowse,3
+4,A. Prophett,4
+5,A. W. (Arthur Wilhelm) Madsen,5
+6,Adolf Lowe,6
+7,Adrian Stephen,7
+8,Alan Hodge,8
+9,Alan Lubbock,9
+10,Ali Ahmed,10
+11,Alice Lowther,11
+12,Alice Ritchie,12
+13,Allen Havens,13
+14,Aneurin Bevan,14
+15,Anna D. Whyte,15
+16,Anna Freud,16
+17,Anton Chekhov,17
+18,Arnim Westerholt,18
+19,Arthur Calder-Marshall,19
+20,Arthur Posonby,20
+21,Arthur Quiller-Couch,21
+22,Arthur Rimbaud,22
+24,Arthur Salter,24
+25,Avvakum,25
+26,B. Bowker,26
+28,Barbara Baker,28
+29,Barbara Hepworth,29
+30,Barrington Gates,30
+31,Basil De Selincourt,31
+33,Benito Mussolini,33
+34,Bonamy Dobree,34
+36,C. E. M. Joad,36
+37,C. F. Fraser,37
+38,C. H. B. Kitchin,38
+39,C. J. M. Hubback,39
+40,C. L. R. James,40
+41,C. M. Lloyd,41
+42,Cecil Nathan Sidney Woolf,42
+43,C. P. Sanger,43
+44,C. T. Cramp,44
+45,Cecil Aspinall-Oglander,45
+46,Cecil Day-Lewis,46
+47,Cecily Isabel Fairfield Andrews,47
+48,Charles Davies,48
+49,Charles Douglas Campbell,49
+50,Charles Mauron,50
+51,Charles Roden Buxton,51
+52,Christopher Isherwood,52
+53,Christopher Lee,53
+54,Christopher Saltmarshe,54
+55,Clive Bell,55
+56,Conrad Aiken,56
+57,Constance Butler,57
+58,Coralie Hobson,58
+59,Countess Sophia Tolstoi,59
+60,D. E. Enfield,60
+61,Denis Ireland,61
+62,Derrick Leon,62
+63,Dorothy Wellesley,63
+64,Douglas Ainslie,64
+65,Ian Harris,65
+66,E. E. Kellett,66
+67,E. J. Strachey,67
+68,E. J. Trechmann,68
+69,E. M. Forster,69
+70,Edgar H. Brookes,70
+71,Edith Sitwell,71
+72,E. M. Delafield,72
+73,Edmund Blunden,73
+74,Edward Sackville-West,74
+75,Edward Thompson,75
+76,Edward Upward,76
+77,Edwin Arlington Robinson,77
+78,Edwin Muir,78
+79,Eliza Fay,79
+80,Elizabeth Robins,80
+81,Ella Freeman Sharpe,81
+82,Ena Limebeer,82
+83,Eric Walter White,83
+84,Ernest Jones,84
+85,Ernst Benkard,85
+86,F. C. R. Doulgas,86
+87,F. L. Lucas,87
+88,F. M. Dostoevsky,88
+89,F. M. Mayor,89
+90,F. O. Mann,90
+91,Federico Garcia Lorca,91
+92,Ferenc Bekassy,92
+93,Florence Wilson,93
+94,Frances Cornford,94
+95,Francesca Allinson,95
+96,Francis Birrell,96
+97,Francis E. Pollard,97
+98,Frank Graham Bell,98
+99,Frank Prewett,99
+100,Fredegond Shove,100
+101,Frederick Verinder,101
+102,Fridtjof Nansen,102
+103,Friedrich Holderlin,103
+104,Fritz Faulkner,104
+105,G. D. H. Cole,105
+106,G. H. Luce,106
+107,G. P. Gooch,107
+108,G. S. Dutt,108
+109,G. T. Garratt,109
+110,Geoffrey Keynes,110
+111,Geoffrey Taylor,111
+112,George Rylands,112
+113,George Strauss,113
+114,Gertrude Stein,114
+115,Geza Roheim,115
+116,Graham D. Pole,116
+117,H. G. Wells,117
+118,H. J. C. Grierson,118
+119,H. R. G. Greaves,119
+120,H. T. Hopkinson,120
+121,H. Wilson Harris,121
+122,Harold J. Laski,122
+123,Harold Nicolson,123
+124,Hebe Spaull,124
+125,Helene Deutsch,125
+126,Henry Green,126
+127,Henry Noel Brailsford,127
+128,Herbert Edward Palmer,128
+129,Herbert Read,129
+130,Herbert Rosinski,130
+131,Herman Melville,131
+132,Hope Mirrlees,132
+133,Horace Alexander,133
+134,Horace B. Samuel,134
+135,Hubert Waley,135
+136,Hugh J. Schonfield,136
+137,Hugh Sykes Davies,137
+138,Hugh Walpole,138
+139,Humbert Wolfe,139
+140,Huw Menai,140
+141,Ida Graves,141
+142,Imre Madach,142
+143,Irene Cooper Willis,143
+144,Iris Origo,144
+145,Irma Petroff,145
+146,Italo Svevo,146
+147,Ivan Bunin,147
+148,J. C. Flugel,148
+149,J. C. Hardwick,149
+150,John Middleton Murry,150
+151,James Strachey,151
+152,James Sutherland,152
+153,Jane Ellen Harrison,153
+154,Jean Stewart,154
+155,Jiri Mucha,155
+156,Joan Adeney Easdale,156
+157,Joan Riviere,157
+158,John A. Hobson,158
+159,John Betjeman,159
+160,John Crowe Ransom,160
+161,John Davenport,161
+162,John Hampson,162
+163,John Lehmann,163
+164,John Maynard Keynes,164
+165,John Ramsay Allardyce Nicoll,165
+166,John Rickman,166
+167,John S. Hoyland,167
+168,John Stephens,168
+169,John L. Graham,169
+170,John W. Graham,170
+171,Joseph Burtt,171
+172,Julia Margaret Cameron,172
+173,Julia Strachey,173
+174,Julian Bell,174
+175,K. M. Panikkar,175
+176,K. Swinstead-Smith,176
+177,Karl Abraham,177
+178,Katherine Mansfield,178
+179,Kathleen Innes,179
+180,Kathleen Nott,180
+181,Keith Vaughan,181
+182,Kenneth Allot,182
+183,Kingsley Martin,183
+184,L. A. G. Strong,184
+185,L. B. Pekin,185
+186,L. M. Fraser,186
+187,Laura Riding,187
+188,Laura Riding Gottschalk,188
+189,Laurens Van der Post,189
+190,Laurie Lee,190
+191,Leo Tolstoy,191
+192,Leonard Barnes,192
+193,Leonard Woolf,193
+194,Leonid Andreev,194
+195,Leslie Stephen,195
+196,Libby Benedict,196
+197,Lincoln Kirstein,197
+198,Lionel Trilling,198
+199,Logan Pearsall Smith,199
+200,Lord Derwent,200
+201,Lord Olivier,201
+202,Lotte Reiniger,202
+203,Louis Golding,203
+204,Louis Racine,204
+205,Lyn Irvine,205
+206,Margaret Cole,206
+207,Margaret Llewelyn Davies,207
+208,Margaret Miller,208
+209,Margaret Thomas,209
+210,Marius Lyle,210
+211,Marjorie Strachey,211
+212,Marjorie Thompson Joad,212
+213,Marjorie Wise,213
+214,Mark Starr,214
+215,Mary Birkinshaw,215
+216,Mary Gordon,216
+217,Mary Hutchinson,217
+218,Mary Stella Edwards,218
+219,Maurice Dobb,219
+220,Maxim Gorky,220
+221,Melanie Klein,221
+222,Michael Redgrave,222
+223,Michael Roberts,223
+224,Michael Sadler,224
+225,Mulk Raj Anand,225
+226,Muriel Jaeger,226
+227,Nancy Cunard,227
+228,Naomi Mitchison,228
+229,Norah Montgomerie,229
+230,Norman Cameron,230
+231,Norman Leys,231
+232,Norman Macleod,232
+233,Parmenas Githendu Mockerie,233
+234,Paul Birukov,234
+235,Percy Arnold,235
+236,Peter Ibbetson,236
+237,Peter Petroff,237
+238,Peter Quennell,238
+239,Philip J. Noel Baker,239
+240,Quentin Bell,240
+241,R. B. Braithwaite,241
+242,R. C. Trevelyan,242
+243,R. D. Charques,243
+244,R. H. S. Crossman,244
+245,R. M. Fox,245
+246,R. Palme Dutt,246
+247,Rainer Maria Rilke,247
+248,Ralph Brewster,248
+249,Ralph Hill,249
+250,Ray Strachey,250
+251,Raymond Mortimer,251
+252,Raymond Postgate,252
+253,Rene Laforgue,253
+254,Robert Graves,254
+255,Robert H. Hull,255
+256,Robert Mountsier,256
+257,Robinson Jeffers,257
+258,Roger Fry,258
+259,Roger Money-Kyrle,259
+260,Rosamond Lehmann,260
+261,Rose Macaulay,261
+262,Roy Fuller,262
+263,Rupert Trouton,263
+264,Ruth Manning-Sanders,264
+265,S. H. Bailey,265
+266,S. K. Ratcliffe,266
+267,Samuel Solomonovich Koteliansky,267
+268,Sally Graves,268
+269,Sandor Ferenczi,269
+270,Sherard Vines,270
+271,Sigmund Freud,271
+272,Sophia Tolstoy,272
+273,Stanley Snaith,273
+274,Stephen King-Hall,274
+275,Stephen Reynolds,275
+276,Stephen Spender,276
+277,Susan Buchan,277
+278,Sylva Norman,278
+279,T. C. Worsley,279
+280,T. S. Eliot,280
+281,Terence Tiller,281
+282,Theodor Reik,282
+283,Theodora Bosanquet,283
+284,Thomas Sharp,284
+285,Thos J. Hewitt,285
+286,Tom Hopkinson,286
+287,Trekkie Ritchie Parsons,287
+288,Vanessa Bell,288
+289,Vernon Lee,289
+290,Vicountess Katharine Louisa Amberley,290
+291,Victoria Sackville-West,291
+292,Viola Tree,292
+293,Virginia Woolf,293
+294,John Russell Amberley,294
+295,Robert Cecil,295
+296,Margaret Mackworth,296
+297,W. Arnold-Forster,297
+298,W. F. Watson,298
+299,W. G. Ballinger,299
+300,W. H. Auden,300
+301,W. R. Lester,301
+302,Wilfrid Benson,302
+303,Willa Muir,303
+304,William A. Bradley,304
+305,William Montgomerie,305
+306,William Plomer,306
+307,William Sansom,307
+308,William Stephen Sanders,308
+309,Yuri Olyesha,309
+310,Joseph Malaby Dent,310
+311,Ernest Percival Rhys,311
+312,Grant Richards,312
+313,Barbara Hiles Bagenal,313
+314,Ewald Osers,314
+315,Michael Ayrton,315
+316,Eunice Frost,316
+317,Dorothy L. Shereff,317
+318,Sydney Schiff,318
+319,John Carroll,319
+320,Rebecca West,320
+321,The Hogarth Press,321
+322,Percy Blackmore,322
+323,Herbert Reiach Ltd,323
+324,"Vincent Brooks, Day & Son Ltd",324
+325,"""Ship"" Binding Works",325
+326,Moura Budberg,326
+327,C. Newman,327
+328,H. Summers,328
+329,Penguin Books,329
+330,E. M. Layton,330
+331,The BBC (British Broadcasting Corporation),331
+332,Yvonne Muller,332
+333,Ian Parsons,333
+334,"Pearn, Pollinger??& Higham",334
+335,Aline Burch,335
+336,Spalding & Hodge,336
+337,W. Maxwell,337
+338,Freeman and Cooke,338
+339,Unclear,339
+340,Kingston Bookbinding Works,340
+341,S. Norrell Smith,341
+342,Sol Stein,342
+343,Donald Brace,343
+344,Alfred Knopf,344
+345,"G. P. Putnam's Sons, Ltd.",345
+346,Constable,346
+347,R and R Clark,347
+348,George Routledge and Sons,348
+349,Peggy Belsher,349
+350,Department for American Books,350
+351,Curtis Brown Ltd.,351
+352,Secretary to Miss Pearn,352
+353,Pamela Diamand,353
+354,Clara Walker,354
+355,Thomas Seltzer,355
+356,John O'London's Weekly,356
+357,McKenna & Co.,357
+358,S.M. Payne,358
+359,Martin Freud,359
+360,Appleton-Century Co.,360
+361,Percy Lund Humphries & Co.,361
+362,S. Walker,362
+363,Medical Center Bookstore,363
+364,George V. Eliot,364
+365,The Macmillan Company of Canada,365
+366,Ethel McMillan,366
+367,S. M. Payne,367
+368,J. Riwkin,368
+369,George Pritchard,369
+370,Jeremy Hutchinson,370
+371,Chenell Norman,371
+372,International University Press,372
+373,Christina Stokmann,373
+374,G. C. Burns,374
+375,R. R. Hauton,375
+376,Payne Thomas,376
+377,Nathaniel Thornton,377
+378,Hayward Cirker,378
+379,William Linch,379
+380,The Baptist Book Store,380
+381,Charles C Thomas Publisher,381
+382,Dover Publications,382
+383,Julius Levin,383
+384,Ernst Freud,384
+385,L. B. Namier,385
+386,The Garden City Press,386
+387,Irving M. Clyne,387
+388,Hadley Cantril,388
+389,Sander Katz,389
+390,Marsud R. Khan,390
+391,Albert Daub,391
+392,G. M. Colby,392
+393,Didier Publishers,393
+394,Hunter & Foulis,394
+395,Henry H. Sadler,395
+396,G. E. Stechert & Co,396
+397,Nathan Greenbaum,397
+398,Seymour Cain,398
+399,Davis & Gilbert,399
+400,B. D. Shaw,400
+401,Abbey Books,401
+402,H. M. Arnould,402
+403,R. E. Barker,403
+404,Co-operation Scientific Quarterly,404
+405,The Publishers Association,405
+406,Arts & Science Press,406
+407,F. D. Sanders,407
+408,Chatto & Windus,408
+409,H. P. Wilson,409
+410,Storer Lunt,410
+411,George Allen & Unwin Ltd,411
+412,Helen Walker Puner,412
+413,Fabian Colonial Bureau,413
+414,Leonard C. Frank,414
+415,Louis Schneider,415
+416,Penguin Books Ltd,416
+417,A. S. B. Glover,417
+418,Allen Lane,418
+419,William Targ,419
+420,Hard Raymond,420
+421,The World Publishing Company,421
+422,M. F. Ashley Montagu,422
+423,L. I. O'Kelly,423
+424,C. W. Streeter,424
+425,Emanuel Harper,425
+426,Robert Linscott,426
+427,Gerard Haigh,427
+428,Laurence Pollinger,428
+429,H. M. Inspector of Taxes,429
+430,Margaret Harlow,430
+431,G. R. Lamb,431
+432,David Higham,432
+433,R. J. Goldacre,433
+434,Elisha Atkins,434
+435,K. R. Eissler,435
+436,Piers Raymond,436
+437,H. B. Trevor Cox,437
+438,Frances Bradshaw Blanshard,438
+439,D. W. Gotshalk,439
+440,The Curwen Press,440
+441,A. Haase,441
+442,The Institute of Psychoanalysis,442
+443,The Garden City Press Ltd.,443
+444,Percy Lund Humphries & Co,444
+445,The Book Society Ltd.,445
+446,R. & R. Clark,446
+447,Council on Foreign Relations,447
+448,The English Association,448
+449,Biharilal,449
+450,Macmillan & Co.,450
+451,Humphrey Milford,451
+452,Oxford University Press,452
+453,Longmans Green & Co. Ltd.,453
+454,Theodore McClintock,454
+455,Freeman Lewis (Garden City Publishing Company),455
+456,Garden City Publishing Co.,456
+457,The English Digest,457
+458,The British Broadcasting Corporation,458
+459,B. H. Alexander,459
+460,Frank Flemington,460
+461,Nilita Vientos Gaston,461
+462,Benfield Pressey,462
+463,The Ryerson Press,463
+464,F.S. Crofts & Co.,464
+465,The Political Quarterly,465
+466,Miss Johnston,466
+467,Uttar Chand Kapur & Sons,467
+468,George Routledge & Sons Ltd.,468
+469,Clara,469
+470,Percy H. Muir,470
+471,G. Bell and Sons ,471
+472,Paul Bloomfield,472
+473,E. J. J. Price,473
+474,M. Fernald,474
+475,T. F. Lindsay,475
+476,G. A. Martelli,476
+477,"Pearn, Pollinger's & Higham",477
+478,Percy R. Blackmore,478
